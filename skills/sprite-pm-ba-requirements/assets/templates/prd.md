@@ -1,5 +1,7 @@
 # PRD：〈功能或产品范围〉
 
+<!-- 填写后的 PRD 保存到业务仓库 docs/pm-ba/prd.md，或 docs/pm-ba/<feature-id>/prd.md；故事和附件同属 docs/pm-ba/，链接相对本文档。 -->
+
 **状态：**〈草稿 / 已确认 / 已替代〉
 **负责人：**〈负责人或未指派〉
 **更新时间：**〈YYYY-MM-DD〉
